@@ -151,7 +151,7 @@ JDK 11 features used in various implementations:
 - cube root
 - random module use
 
-## 7. LeetCode Problems Solved [Link](https://github.com/rishiraj88/LeetCode)
+## 7. LeetCode Problems Solved [Link](https://github.com/rishiraj88/LeetCode/tree/main/LeetCodeSolutions/src)
 - **LC01TwoSum.java :** Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 - **LC02AddTwoNumbers.java :** Given two non-empty linked lists representing twonon-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 - **LcMaxConsecutiveOnes.java :** to find the length of the longest subsequence having only 1's else to return 0
@@ -162,16 +162,16 @@ And more on the way!
 - a shopping site implementation with vanilla JavaScript, CSS and HTML
 - To visit the cloud-hosted site, smile and step in to [RRShops](https://rrshops.netlify.app/)
 
-## 9. Java 8 DateTime code samples [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20DateTime%20code%20samples.md)
+## 9. [GIST] Java 8 DateTime code samples [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20DateTime%20code%20samples.md)
 - Code fragments for learners to refer and use quickly frequently used methods out of new Java DateTime API in Java 8+.
 
-## 10. Java Stream Collector/Collectors methods to Collect Streaming Data [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%20Stream%20collector-s%20methods.md)
+## 10. [GIST] Java Stream Collector/Collectors methods to Collect Streaming Data [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%20Stream%20collector-s%20methods.md)
 - Code fragments for learners to learn and use efficiently all of the end-user-level methods of Java Stream API in Java 8+.
 
-## 11. Functional Interfaces in Java API [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20Functional%20Interfaces%20in%20Java%20API.md)
+## 11. [GIST] Functional Interfaces in Java API [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20Functional%20Interfaces%20in%20Java%20API.md)
 - It lists various in-built interfaces and their respective methods for functional programming using Java 8+.
 
-## 12. Java Concurrency API, Concurrent Collections and Synchronizers in Java [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%20Concurrency%20API.md)
+## 12. [GIST] Java Concurrency API, Concurrent Collections and Synchronizers in Java [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%20Concurrency%20API.md)
 - The list of Concurrent Collections and more components available as part of Concurrency API in Java 8 and later, such as Executor, ExecutorService, Lock and Symaphore.
 
 ## 13. Various Popular Algorithms Implemented in Java and PoC's for explaining the Features of Java Core API's [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/JavaCore/src/main/java)
