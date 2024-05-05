@@ -34,6 +34,7 @@ I am always looking for colleagues and networkers to collect SMART ideas and rea
 - Platforms: AWS (EC2, S3, Lambda, Step Functions, RDS, ECR, ECS, Fargate), GCP (Google Storage, Compute Engine), Linux, Shell Scripting, Containerization & Orchestration, Podman, Docker, Kubernetes
 - CI/CD: GitHub Actions, Jenkins Pipelines
 - Science: Computer Science (Data Structures, Algorithms, Automation), Applied Science, Mathematics, Statistics
+
 ### Have Limited Experience with: 
 - Data Analytics & GenAI: ML (Machine Learning) with Python, AI (Artificial Intelligence), LLaMA (Large Language Models), GenAI products (Gemini)
 - Networking & Platforms: TCP, IP, Azure, EKS & CloudFormation, Infrastructure as Code (IaC)
@@ -48,6 +49,25 @@ _Challenges are stepping stones. One must step upon them and progress._
 # Some of the Projects and Collections I have Prepared by Now
 Code samples and PoC's
 ... for learners and seekers to refer quickly.
+
+## My Favorite Projects
+I must not mix them among the others by enumerating. So, there are here without ordinals. ROLLING DRUMS!!!
+
+### Football World Cup Scoreboard ![Scoreboard Easy to Customize for Other Game Genres](https://github.com/rishiraj88/footballWorldCupLiveScoreboard)
+It is a data feed library for Live Score Board of Football World Cup. Right now it shows all ongoing football matches from our data feed providers and the live scores updated accordingly.
+
+### Net Price Calculator ![Net Price Across Currencies](https://github.com/rishiraj88/netcalculator)
+A comprehensive service for a multinational (or even global) company which operates in any financial domain. It is a service which allows consumers to calculate the net price of a product or service based on its gross price and the prevalent VAT (MWSt) rate. Our calculator also takes into consideration forex rates and performs the foreign currency conversions (foreign exchanges).
+
+### Leasing: Vehicle Leasing and Returning ![Leasing](https://github.com/rishiraj88/leasing)
+End-User Utility to take vehicles on lease, respect such leasing contracts and returning the leased vehicles to the providers. For use by customers (vehicle users)
+
+### Order Management ![OM](https://github.com/rishiraj88/order-manager)
+It has three main modules - Product, Order, Inventory - exposing their services with Web Services via synchronous and asynchronous communications.
+
+### Employee On-Boarding ![New-Age HRMS](https://github.com/rishiraj88/EmployeeOnboardingStateMachine)
+The compact Human Resource management tool for adding talent to build Superteams!!! A must-have accelerator for modern large-scale enterprises. It allows for rapid onboarding of people and reduces error rates.
+
 
 ## 1. Spring Boot With Eureka (For Spring Cloud Architecture)
 A project showcasing Eureka Service Discovery implemented for Microservices.
