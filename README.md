@@ -4,9 +4,9 @@ I am always looking for colleagues and networkers to collect SMART ideas and rea
 - feasibility study
 - absolute value proposition
 - effort and time cost
-- value-for-RI (risk & investment)
+- value for RI (risk & investment)
 
-- 🔭 Currently I’m working on [`leasing` project](https://github.com/rishiraj88/leasing). It is an End-User Utility to take vehicles on lease, respect such leasing contracts and returning the leased vehicles to providers. For use by customers (vehicle users).
+- 🔭 Currently I’m working on [leasing project](https://github.com/rishiraj88/leasing) and [Order Manager](https://github.com/rishiraj88/order-manager). `Leasing` is an End-User Utility to take vehicles on lease, respect such leasing contracts and returning the leased vehicles to providers. For use by customers (vehicle users). On the other hand, `Order Manager` is the core set of modules to appreciate the mutual interactions of main entities in this service sector.
 
 - 🌱 Alongside I’m learning the advanced concepts about containers and orchestration, mainly with respect to:
 -- Docker networking,
