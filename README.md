@@ -53,19 +53,19 @@ Code samples and PoC's
 ## My Favorite Projects
 I must not mix them among the others by enumerating. So, there are here without ordinals. ROLLING DRUMS!!!
 
-### Football World Cup Scoreboard ![Scoreboard Easy to Customize for Other Game Genres](https://github.com/rishiraj88/footballWorldCupLiveScoreboard)
+### Football World Cup Scoreboard [Scoreboard Easy to Customize for Other Game Genres](https://github.com/rishiraj88/footballWorldCupLiveScoreboard)
 It is a data feed library for Live Score Board of Football World Cup. Right now it shows all ongoing football matches from our data feed providers and the live scores updated accordingly.
 
-### Net Price Calculator ![Net Price Across Currencies](https://github.com/rishiraj88/netcalculator)
+### Net Price Calculator [Net Price Across Currencies](https://github.com/rishiraj88/netcalculator)
 A comprehensive service for a multinational (or even global) company which operates in any financial domain. It is a service which allows consumers to calculate the net price of a product or service based on its gross price and the prevalent VAT (MWSt) rate. Our calculator also takes into consideration forex rates and performs the foreign currency conversions (foreign exchanges).
 
-### Leasing: Vehicle Leasing and Returning ![Leasing](https://github.com/rishiraj88/leasing)
+### Leasing: Vehicle Leasing and Returning [Leasing](https://github.com/rishiraj88/leasing)
 End-User Utility to take vehicles on lease, respect such leasing contracts and returning the leased vehicles to the providers. For use by customers (vehicle users)
 
-### Order Management ![OM](https://github.com/rishiraj88/order-manager)
+### Order Management [OM](https://github.com/rishiraj88/order-manager)
 It has three main modules - Product, Order, Inventory - exposing their services with Web Services via synchronous and asynchronous communications.
 
-### Employee On-Boarding ![New-Age HRMS](https://github.com/rishiraj88/EmployeeOnboardingStateMachine)
+### Employee On-Boarding [New-Age HRMS](https://github.com/rishiraj88/EmployeeOnboardingStateMachine)
 The compact Human Resource management tool for adding talent to build Superteams!!! A must-have accelerator for modern large-scale enterprises. It allows for rapid onboarding of people and reduces error rates.
 
 
