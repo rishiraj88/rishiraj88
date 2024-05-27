@@ -105,7 +105,6 @@ The compact Human Resource management tool for adding talent to build Superteams
 - Foreign Function and Memory API (incubator)
 - Vector API (second incubator)
 - context-specific deserialization filters
-Source code will be available soon.
 
 ## C. Java 14 Examples [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/Java14API/src/main/java/java14)
 JDK 14 features used in various implementations:
