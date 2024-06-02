@@ -1,5 +1,5 @@
 # Status Codes for HTTP Response
-- PDF file is available here: [PDF](https://github.com/rishiraj88/Status%20Codes%20for%20HTTP%20Response.pdf)
+- PDF file is available here: [PDF](https://github.com/rishiraj88/rishiraj88/blob/main/Status%20Codes%20for%20HTTP%20Response.pdf)
 ## The following are the five categories of response codes:
 - 1xx - informational message
 - 2xx - successful message

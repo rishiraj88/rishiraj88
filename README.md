@@ -179,7 +179,7 @@ And more on the way!
 - **StreamCollectMethods.java :** to demonstrate various use scenarios of Stream.collect() method with Collectors
 And more to come up!
 
-## J. [GIST] HTTP response status codes [Link](https://github.com/rishiraj88/HTTP%20response%20status%20codes.md)
+## J. [GIST] HTTP response status codes [Link](https://github.com/rishiraj88/rishiraj88/blob/main/HTTP%20response%20status%20codes.md)
 - Status Codes for frequently used HTTP responses. Very useful and crisp list of the response codes for web development. 
 
 ## K. [GIST] Java 8 DateTime code samples [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20DateTime%20code%20samples.md)
