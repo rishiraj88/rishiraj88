@@ -169,19 +169,7 @@ And more on the way!
 - an interactive page/view of shopping site implementation with vanilla JavaScript, CSS and HTML
 - To visit the cloud-hosted site, smile and step in to [RRShops](https://rrshops.netlify.app/)
 
-## I. [GIST] Java 8 DateTime code samples [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20DateTime%20code%20samples.md)
-- Code fragments for learners to refer and use quickly frequently used methods out of new Java DateTime API in Java 8+.
-
-## J. [GIST] Java Stream Collector/Collectors methods to Collect Streaming Data [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%20Stream%20collector-s%20methods.md)
-- Code fragments for learners to learn and use efficiently all of the end-user-level methods of Java Stream API in Java 8+.
-
-## K. [GIST] Functional Interfaces in Java API [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20Functional%20Interfaces%20in%20Java%20API.md)
-- It lists various in-built interfaces and their respective methods for functional programming using Java 8+.
-
-## L. [GIST] Java Concurrency API, Concurrent Collections and Synchronizers in Java [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%20Concurrency%20API.md)
-- The list of Concurrent Collections and more components available as part of Concurrency API in Java 8 and later, such as Executor, ExecutorService, Lock and Symaphore.
-
-## M. Various Popular Algorithms Implemented in Java and PoC's for explaining the Features of Java Core API's [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/JavaCore/src/main/java)
+## I. Various Popular Algorithms Implemented in Java and PoC's for explaining the Features of Java Core API's [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/JavaCore/src/main/java)
 - The list of Concurrent Collections and more components available as part of Concurrency API in Java 8 and later, such as Executor, ExecutorService, Lock and Symaphore.
 - **DefaultEleValue.java :** to test default values of elements of array
 - **MedianOfTwoArrays.java :** to find the median for the elements of two arrays taken together
@@ -191,8 +179,24 @@ And more on the way!
 - **StreamCollectMethods.java :** to demonstrate various use scenarios of Stream.collect() method with Collectors
 And more to come up!
 
+## J. [GIST] HTTP response status codes [Link](https://github.com/rishiraj88/HTTP%20response%20status%20codes.md)
+- Status Codes for frequently used HTTP responses. Very useful and crisp list of the response codes for web development. 
+
+## K. [GIST] Java 8 DateTime code samples [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20DateTime%20code%20samples.md)
+- Code fragments for learners to refer and use quickly frequently used methods out of new Java DateTime API in Java 8+.
+
+## L. [GIST] Java Stream Collector/Collectors methods to Collect Streaming Data [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%20Stream%20collector-s%20methods.md)
+- Code fragments for learners to learn and use efficiently all of the end-user-level methods of Java Stream API in Java 8+.
+
+## M. [GIST] Functional Interfaces in Java API [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20Functional%20Interfaces%20in%20Java%20API.md)
+- It lists various in-built interfaces and their respective methods for functional programming using Java 8+.
+
+## N. [GIST] Java Concurrency API, Concurrent Collections and Synchronizers in Java [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%20Concurrency%20API.md)
+- The list of Concurrent Collections and more components available as part of Concurrency API in Java 8 and later, such as Executor, ExecutorService, Lock and Symaphore.
+
 ### Notes
-These repositories feature in-development programs and projects, too. And, continuous development and continuous integration is an obvious good.
+- These repositories feature in-development programs and projects, too. Hence perfection is not guaranteed at any moment of time.
+- And, yes, continuous development and continuous integration are obviously good.
 
 ## You May Mark your feedback at the Following Contact Points
 - **LinkedIn:** <https://www.linkedin.com/in/rishirajopenminds>
