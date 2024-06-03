@@ -1,16 +1,22 @@
 # Hi  👋, from Rishi Raj
 
-I am always looking for colleagues and networkers to collect SMART ideas and realise the most promising ones of them, measured with-
+I am always looking for colleagues and networkers to collect SMART ideas and realise the most promising ones of them, rated with-
 - feasibility study
 - absolute value proposition
 - effort and time cost
-- value for RI (risk & investment)
+- value for RI (risk & investment size)
 
-- 🔭 Currently I’m working on [leasing project](https://github.com/rishiraj88/leasing) and [Order Manager](https://github.com/rishiraj88/order-manager). `Leasing` is an End-User Utility to take vehicles on lease, respect such leasing contracts and returning the leased vehicles to providers. For use by customers (vehicle users). On the other hand, `Order Manager` is the core set of modules to appreciate the mutual interactions of main entities in this service sector.
+- 🔭 Currently I’m mainly developing on [Vehicle Leasing & Contract Manager](https://github.com/rishiraj88/leasing) and [Order Manager for e-Commerce](https://github.com/rishiraj88/order-manager). One-liners about these projects:
+- `Contract Manager` is an End-User Self-Help Portal for the customers to take vehicles on lease, abide by in-force leasing contract policies and returning the leased vehicles to dealers. The portal is for use by customers (vehicle users) only. 
+- On the other hand, `Order Manager` is the core set of modules to appreciate the mutual interactions of main services in the service sector of e-Commerce and Marketplaces.
 
-- I am making deliberate use of the beneficial features of Java 17 and higher versions, such as Record type, switch expression, HttpClient along with the now popular Stream API, DateTime API and Optional type. And, yes, the superpowers of the already tremendous Java 8 facilities have been further bolstered in the later release of the language (JLS).
+## Upcoming PoC's
+- Implementation of Message Queues with Kafka (priority 0)
+- Orchestration of Microservices in Docker containers as Services and Tasks using Google Cloud (priority 1) and using AWS (priority 2)
+- One more parallel attempt is to add Kotlin code to the active projects- by translating the older modules and/or by writing the newer modules straight away with Kotlin language. 
 
-- One more parallel attempt is to add Kotlin code in the existing projects- by translating the older modules and/or by writing the newer modules straight with Kotlin. 
+- I am making deliberate use of the beneficial features of Java 17 and higher versions, such as Record type, switch expression, HttpClient along with the "now popular" Stream API, DateTime API and Optional type. And, yes, the superpowers of the already tremendous Java 8 facilities have been further bolstered in the later releases of the language (JLS: the Java Language Specification).
+
 
 - 🌱 Alongside I’m learning the advanced concepts about containers and orchestration, mainly with respect to:
 -- Docker networking,
