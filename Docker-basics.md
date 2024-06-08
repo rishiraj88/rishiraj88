@@ -1,4 +1,6 @@
 # Docker Basics Commands
+- - PDF file is available here: [PDF](https://github.com/rishiraj88/rishiraj88/blob/main/Docker%20Commands%20for%20Beginners.pdf)
+
 - In this gist, two main classes of systems (machines) are referred many times:
   - host system: the machine on which container runtime has been installed and containers (running and exited) reside,
   - container system: the system running inside a container.
