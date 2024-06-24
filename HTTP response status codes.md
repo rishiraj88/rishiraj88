@@ -45,7 +45,7 @@ It indicates that the request URI (URL included) is too large for server to hand
 ### 500 Internal Server Error
 It indicates that there occurred an error in request processing or response preparation such as some error in calculation, string processing or another arithmetic or logical step.
 ### 503 Service Unavailable
-When a server or service is required to assist the main server (or gateway) to process the user request, but the supporting service is not accessible. That service (or service) may be down at all.
+When a server or service is required to assist the main server (or gateway) to process the user request, but the supporting service is not accessible. That service (or server itself) may be down at all.
 
 ## You May Mark your feedback at the Following Contact Points
 - **LinkedIn:** <https://www.linkedin.com/in/rishirajopenminds>
