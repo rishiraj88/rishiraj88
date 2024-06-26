@@ -2,7 +2,7 @@
 
 Feel free to fork into and pull from my respositories. Collaboration and sharing ought to continue.  
 
-I am always looking for colleagues and networkers to collect SMART ideas and realise the most promising ones of them, rated with-
+To prioritise SMART ideas and realise the most promising ones of them, rate them with-
 - feasibility study
 - absolute value proposition
 - effort and time cost
