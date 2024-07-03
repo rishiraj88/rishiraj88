@@ -13,7 +13,7 @@ To prioritise SMART ideas and realise the most promising ones of them, rate them
 - On the other hand, `Order Manager` is the core set of modules to appreciate the mutual interactions of main services in the service sector of e-Commerce and Marketplaces.
 
 ## Upcoming PoC's
-- Implementation of Message Queues with Kafka (priority 0)
+- Implementation of Message Queues with Kafka (priority 0. Development started on 24-Jun-2024, enjoying a long off-work time due to other vital responsibilities.)
 - Orchestration of Microservices in Docker containers as Services and Tasks using Google Cloud (priority 1) and using AWS (priority 2)
 - One more parallel attempt is to add Kotlin code to the active projects- by translating the older modules and/or by writing the newer modules straight away with Kotlin language. 
 
@@ -24,6 +24,7 @@ To prioritise SMART ideas and realise the most promising ones of them, rate them
 -- Docker networking,
 -- hosting containers in cloud-infra services, and
 -- orchestrating clusters using cloud-infra services and/or Kubernetes
+-- Apache NiFi for data flow and application testing
 
 - 🤔 I have always been curious about slowing the pollution addition down by enhancing the performance of electrical and electronic devices alike. To me, the easiest to implement is:
 -- to write highly performant applications, services and infrastructure.
@@ -39,8 +40,8 @@ To prioritise SMART ideas and realise the most promising ones of them, rate them
 ### Driving Factors: Innovations, Partnerships, Initiatives 
 - Product Architectures: Event-driven, ReSTful APIs, Microservice Architecture, Messaging
 - Development & Design: REST Principles, TDD, Continuous Delivery, DevOps, Domain-Driven Design, SOLID, YAGNI, Requirements Engineering (FR+NFR), Agile, Documentation, JIRA, Integration Testing, E2E Testing
-- Languages: Java, Jakarta EE, Multithreading, Kotlin, JavaScript, TypeScript, Bash
-- Frameworks & Environments: Spring Boot, Hibernate, Spring Security, Spring Cloud, Thymeleaf, React.js, Node.js 
+- Languages: Java, Jakarta EE, Multithreading, Kotlin, JavaScript, Bash
+- Frameworks & Environments: Spring Boot, Node.js, Express.js, TypeScript, Hibernate, Spring Security, Spring Cloud, React.js, Angular, Thymeleaf
 - Utilities: Kafka, Message Queue, JUnit, UML, Mockito, Webpack, Babel, Jest, Git, BitBucket (Atlassian), Sentry, IntelliJ IDEA, VS Code, eclipse
 - Data Stores: RDBMS (MySQL, Oracle, PL/SQL), NoSQL (MongoDB, Redis)
 - Platforms: AWS (EC2, S3, Lambda, Step Functions, RDS, ECR, ECS, Fargate), GCP (Google Storage, Compute Engine), Linux, Shell Scripting, Containerization & Orchestration, Podman, Docker, Kubernetes
