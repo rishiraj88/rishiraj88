@@ -8,7 +8,7 @@ To prioritise SMART ideas and realise the most promising ones of them, rate them
 - effort and time cost
 - value for RI (risk & investment size)
 
-- 🔭 Currently I’m mainly developing on [Vehicle Leasing & Contract Manager](https://github.com/rishiraj88/leasing) and [Order Manager for e-Commerce](https://github.com/rishiraj88/order-manager). One-liners about these projects:
+- 🔭 By now I have mainly developed [Vehicle Leasing & Contract Manager](https://github.com/rishiraj88/leasing) and [Order Manager for e-Commerce](https://github.com/rishiraj88/order-manager). One-liners about these projects:
 - `Contract Manager` is an End-User Self-Help Portal for the customers to take vehicles on lease, abide by in-force leasing contract policies and returning the leased vehicles to dealers. The portal is for use by customers (vehicle users) only. 
 - On the other hand, `Order Manager` is the core set of modules to appreciate the mutual interactions of main services in the service sector of e-Commerce and Marketplaces.
 
