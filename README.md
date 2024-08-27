@@ -46,7 +46,7 @@ To prioritise SMART ideas and realise the most promising ones of them, rate them
 - Data Stores: RDBMS (MySQL, Oracle, PL/SQL), NoSQL (MongoDB, Redis)
 - Platforms: AWS (EC2, S3, Lambda, Step Functions, RDS, ECR, ECS, Fargate), GCP (Google Storage, Compute Engine), Linux, Shell Scripting, Containerization & Orchestration, Podman, Docker, Kubernetes
 - CI/CD: GitHub Actions, Jenkins Pipelines
-- Science: Computer Science (Data Structures, Algorithms, Automation), Applied Science, Mathematics, Statistics
+- STEM: Computer Science (Data Structures, Algorithms, Automation), Applied Science, Mathematics, Statistics
 
 ### Have Limited Experience with: 
 - Data Analytics & GenAI: ML (Machine Learning) with Python, AI (Artificial Intelligence), LLaMA (Large Language Models), GenAI products (Gemini)
@@ -73,7 +73,7 @@ It is a data feed library for Live Score Board of Football World Cup. Right now 
 A comprehensive service for a multinational (or even global) company which operates in any financial domain. It is a service which allows consumers to calculate the net price of a product or service based on its gross price and the prevalent VAT (MWSt) rate. Our calculator also takes into consideration forex rates and performs the foreign currency conversions (foreign exchanges).
 
 ### 3. Leasing: Vehicle Leasing and Returning [Leasing](https://github.com/rishiraj88/leasing)
-End-User Utility to take vehicles on lease, respect such leasing contracts and returning the leased vehicles to the providers. For use by customers (vehicle users).
+End-User Utility to take vehicles on lease, respect such leasing contracts and returning the leased vehicles to the providers. For use by customers (vehicle users). Screenshots of the revamped UI to attach in next update.
 ![lease-manage-menu](./lease-manage-menu.png)
 
 ### 4. Order Management [OM](https://github.com/rishiraj88/order-manager)
