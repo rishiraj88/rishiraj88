@@ -8,36 +8,38 @@ To prioritise realisable ideas (SMART goals) and realise the top three, I rate t
 - cost in terms of effort and time, and 
 - value for money (the returns against risk & investment)
 
-- 🔭 By now I have mainly developed [Vehicle Leasing Contract](https://github.com/rishiraj88/leasing) and [e-Commerce Order Manager](https://github.com/rishiraj88/order-manager). One-liners about these projects:
+## 🔭 By now I have mainly developed [Vehicle Leasing Contract](https://github.com/rishiraj88/leasing) and [e-Commerce Order Manager](https://github.com/rishiraj88/order-manager). One-liners about these projects
+
 - `Vehicle Leasing Contract` is a Self-Help Portal for the customers to take vehicles on lease, abide by in-force leasing contract policies and return the leased vehicles to dealers. The portal is for use by customers only as being end users. 
 - On the other hand, `Order Manager` is the implementation of the core functionalities of Order module of any modern e-commerce or marketplace platform.
 - In common, these applications have been developed using RESTful APIs and Microservice architecture, ready to containerize and deploy in cloud and data centers.
 
 ## New Capabilities and PoC's
+
 - Implementation of Message Queues with Kafka being the message broker.
 - Orchestration of Microservices in Docker containers using Kubernetes (with YML-powered declarations.
 - One more parallel attempt is to add a few apps built with Kotlin.
 
+## I am making deliberate use of the beneficial features of Java 17 and higher versions, such as Record type, switch expression, HttpClient along with the very popular Stream API, Date/Time API and Optional. And, yes, the superpowers of the already tremendous Java 8 facilities have been further bolstered in the later releases of the language (canonically known as JLS: the Java Language Specification).
 
-- I am making deliberate use of the beneficial features of Java 17 and higher versions, such as Record type, switch expression, HttpClient along with the very popular Stream API, Date/Time API and Optional. And, yes, the superpowers of the already tremendous Java 8 facilities have been further bolstered in the later releases of the language (canonically known as JLS: the Java Language Specification).
+## 🌱 Alongside I’m fostering myself with more of: "all things containers" and orchestration, such as
+- Docker networking across OSI Model layers,
+- hosting containers in cloud infrastructure, and
+- orchestrating clusters using Kubernetes and IaC tools
+- Apache NiFi for data flow and application testing
+
+## 🤔 I have always been curious about Green Development by enhancing system performance. To me, the easiest approach to achieve Sustainability is:
+
+- to write highly performant applications, services and platforms.
+- In case I fall short of the SME level of expertise regarding some tools, I rely on the promises of the respective providers. They include the leading cloud service providers.
 
 
-- 🌱 Alongside I’m fostering myself with more of: "all things containers" and orchestration, such as:
--- Docker networking across OSI Model layers,
--- hosting containers in cloud infrastructure, and
--- orchestrating clusters using Kubernetes and IaC tools
--- Apache NiFi for data flow and application testing
+## 📫 Feel free to Reach Me for Feedback, Queries, Collaboration and More:
 
-- 🤔 I have always been curious about Green Development by enhancing system performance. To me, the easiest approach to achieve Sustainability is:
--- to write highly performant applications, services and platforms.
--- In case I fall short of the SME level of expertise regarding some tools, I rely on the promises of the respective providers. They include the leading cloud service providers.
-
-
-- 📫 Feel free to Reach Me for Feedback, Queries, Collaboration and More:
--- LinkedIn Profile: https://www.linkedin.com/in/rishirajopenminds
--- Contact Card: https://bio.link/rishiraj49de
--- X: https://twitter.com/RishiRajDevOps
--- My Work: https://github.com/rishiraj88?tab=repositories
+- _LinkedIn Profile:_ https://www.linkedin.com/in/rishirajopenminds
+- _Contact Card:_ https://bio.link/rishiraj49de
+- _X:_ https://twitter.com/RishiRajDevOps
+- _My Work:_ https://github.com/rishiraj88?tab=repositories
 
 ### This README is updated above this line [on 2025-02-14]. The review of the below lines will follow. ###
 
@@ -68,7 +70,7 @@ _Challenges are stepping stones. One must step upon them and progress._
 Code samples and PoC's
 ... for learners and seekers to refer quickly.
 
-## A. My Favorite Projects
+## A. My Favorite Projects [3., 4. and 5.]
 I must not mix them among the others by enumerating. So, there are here without ordinals. ROLLING DRUMS!!!
 
 ### 1. Football World Cup Scoreboard [Scoreboard Easy to Customize for Other Game Genres](https://github.com/rishiraj88/footballWorldCupLiveScoreboard)
