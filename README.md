@@ -8,9 +8,10 @@ To prioritise realisable ideas (SMART goals) and realise the top three, I rate t
 - cost in terms of effort and time, and 
 - value for money (the returns against risk & investment)
 
-## 🔭 By now I have mainly developed [Vehicle Leasing Contract](https://github.com/rishiraj88/leasing) and [e-Commerce Order Manager](https://github.com/rishiraj88/order-manager). One-liners about these projects
-- `Vehicle Leasing Contract` is a Self-Help Portal for the customers to take vehicles on lease, abide by in-force leasing contract policies and return the leased vehicles to dealers. The portal is for use by customers only as being end users. 
-- On the other hand, `Order Manager` is the implementation of the core functionalities of Order module of any modern e-commerce or marketplace platform.
+## 🔭 By now I have mainly developed [HCM function of Employee onboarding and training induction under ERP](https://github.com/rishiraj88/EmployeeOnboardingStateMachine/tree/main), [Vehicle Leasing Contract](https://github.com/rishiraj88/leasing) and [e-Commerce Order Manager](https://github.com/rishiraj88/order-manager). One-liners about these projects
+- Employee Onboarding demonstrates the coherent sequencing of various tasks, which are performed while welcoming a new person on board (after the acceptance of job offer). These tasks include selection and assignment of and training workflows as well as updating the personal details of the persons in Human Capital Management (HCM) module of a modern ERP system.
+- `Vehicle Leasing Contract` is a Self-Help Portal for the customers to take vehicles on lease, to abide by in-force lease-contract policies and to return the vehicles to dealers. The portal is for use only by end-customers. 
+- On the other hand, `Order Manager` demonstrates the technological collaboration of Kubernetes clustering with Kafka Message Queuing. On functional side, it is an implementation of the core functionalities of Order module of any modern e-commerce or marketplace platform. It encompasses the synchronous communication between Order and Inventory to check in-stock status of items, and asynchronous communication between Order and Notification (flexible for Email, Push and more modes). Product details are fetched from Product module.
 - In common, these applications have been developed using RESTful APIs and Microservice architecture, ready to containerize and deploy in cloud and data centers.
 
 ## New Capabilities and PoC's
@@ -21,10 +22,10 @@ To prioritise realisable ideas (SMART goals) and realise the top three, I rate t
 - I am making deliberate use of the beneficial features of Java 17 and higher versions, such as Record type, switch expression, HttpClient along with the very popular Stream API, Date/Time API and Optional. And, yes, the superpowers of the already tremendous Java 8 facilities have been further bolstered in the later releases of the language (canonically known as JLS: the Java Language Specification).
 
 ## 🌱 Alongside I’m fostering myself with more of: "all things containers" and orchestration, such as
-- Docker networking across OSI Model layers,
-- hosting containers in cloud infrastructure, and
-- orchestrating clusters using Kubernetes and IaC tools
-- Apache NiFi for data flow and application testing
+- Docker networking across OSI Model layers of networks,
+- hosting the containers in cloud infrastructure as well as in virtual networks,
+- orchestrating clusters using Kubernetes, local registries and IaC tools, and
+- Apache NiFi for data flow and application testing.
 
 ## 🤔 I have always been curious about Green Development by enhancing system performance. To me, the easiest approach to achieve Sustainability is:
 - to write highly performant applications, services and platforms.
