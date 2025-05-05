@@ -8,6 +8,10 @@ To prioritise realisable ideas (SMART goals) and realise the top three, I rate t
 - cost in terms of effort and time, and 
 - value for money (the returns against risk & investment)
 
+
+![Prometheus-Grafana Dashboard of Order-Manager](./Prometheus-Grafana-Dashboard-of-Order-Manager.png)
+
+
 ## 🔭 By now I have mainly developed [Vehicle Leasing Contract](https://github.com/rishiraj88/leasing) and [e-Commerce Order Manager](https://github.com/rishiraj88/order-manager). One-liners about these projects
 - `Vehicle Leasing Contract` is a Self-Help Portal for the customers to take vehicles on lease, abide by in-force leasing contract policies and return the leased vehicles to dealers. The portal is for use by customers only as being end users. 
 - On the other hand, `Order Manager` is the implementation of the core functionalities of Order module of any modern e-commerce or marketplace platform.
