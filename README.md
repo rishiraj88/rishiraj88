@@ -8,11 +8,10 @@ To prioritise realisable ideas (SMART goals) and realise the top three, I rate t
 - cost in terms of effort and time, and 
 - value for money (the returns against risk & investment)
 
-
 ![Prometheus-Grafana Dashboard of Order-Manager](./Prometheus-Grafana-Dashboard-of-Order-Manager.png)
 
 
-## 🔭 By now I have mainly developed [Vehicle Leasing Contract](https://github.com/rishiraj88/leasing) and [e-Commerce Order Manager](https://github.com/rishiraj88/order-manager). One-liners about these projects
+## 🔭 By now I have mainly developed [HCM function of Employee onboarding and training induction under ERP](https://github.com/rishiraj88/EmployeeOnboardingStateMachine/tree/main), [Vehicle Leasing Contract](https://github.com/rishiraj88/leasing) and [e-Commerce Order Manager](https://github.com/rishiraj88/order-manager). One-liners about these projects
 - Employee Onboarding demonstrates the coherent sequencing of various tasks, which are performed while welcoming a new person on board (after the acceptance of job offer). These tasks include selection and assignment of and training workflows as well as updating the personal details of the persons in Human Capital Management (HCM) module of a modern ERP system.
 - `Vehicle Leasing Contract` is a Self-Help Portal for the customers to take vehicles on lease, to abide by in-force lease-contract policies and to return the vehicles to dealers. The portal is for use only by end-customers. 
 - On the other hand, `Order Manager` demonstrates the technological collaboration of Kubernetes clustering with Kafka Message Queuing. On functional side, it is an implementation of the core functionalities of Order module of any modern e-commerce or marketplace platform. It encompasses the synchronous communication between Order and Inventory to check in-stock status of items, and asynchronous communication between Order and Notification (flexible for Email, Push and more modes). Product details are fetched from Product module.
