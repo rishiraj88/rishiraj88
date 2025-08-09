@@ -6,7 +6,7 @@ To prioritise realisable ideas (SMART goals) and realise the top three, I rate t
 - feasibility study,
 - absolute value proposition,
 - cost in terms of effort and time, and 
-- value for money (the returns against risk & investment)
+- value for money (the returns against risk & investment). RoRI = RoR + RoI
 
 ![Prometheus-Grafana Dashboard of Order-Manager](./Prometheus-Grafana-Dashboard-of-Order-Manager.png)
 
