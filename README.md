@@ -1,6 +1,6 @@
 # Hi 👋, dear reader!
 
-Feel free to fork into and pull out of the respositories here. The nice acts of collaboration and sharing are always welcome.  
+Feel free to fork into the respositories here. The nice acts of collaboration and sharing are always welcome.  
 
 To prioritise realisable ideas (SMART goals) and realise the top three, I rate them with-
 - feasibility study,
