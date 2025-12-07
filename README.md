@@ -1,4 +1,4 @@
-# Hi 👋, dear reader!
+# Hi 👋, readers and imaginators!
 
 Feel free to fork into the respositories here. The nice acts of collaboration and sharing are always welcome.  
 
