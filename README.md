@@ -2,6 +2,11 @@
 
 Feel free to fork into the respositories here. The nice acts of collaboration and sharing are always welcome.  
 
+## Hot today
+Release v67 of Quarkus is out now!
+![Quarkus Release v67 out on 20260204](./Quarkus-Release-v67-out-on-20260204.png)
+
+
 To prioritise realisable ideas (SMART goals) and realise the top three, I rate them with-
 - feasibility study,
 - absolute value proposition,
