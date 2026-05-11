@@ -100,98 +100,26 @@ It has been implemented using these tech and tools (and more);
 - Spring RestClient (out of Spring Boot)
 ![realm-creation-success-in-keycloak-admin](./realm-creation-success-in-keycloak-admin.png)
 
-### 9. Employee On-Boarding [New-Age HRMS](https://github.com/rishiraj88/EmployeeOnboardingStateMachine)
+### 9. Photo Search Tool implemented with React and TypeScript [Photo Basket](https://github.com/rishiraj88/photobasket)
+- Photo Search implemented with the following:
+-- Web UI with React/TypeScript
+-- [WIP] backend APIs with NodeJS, Spring Boot and FastAPI
+- Photo Basket (an online photo library)
+-- Photo Search Tool implemented with RESTful APIs in Backend, React in Frontend; with TypeScript in full stack.
+-- Development status: active
+-- To secure the API access token (and more secrets) next
+- Revamp: Second phase of development
+-- Proofing the need and the feasibility of RAG- and GenAI-powered features, such as chatbot and semantic search.
+  
+### 10. Employee On-Boarding [New-Age HRMS](https://github.com/rishiraj88/EmployeeOnboardingStateMachine)
 The compact Human Resource management tool for adding talent to build Superteams!!! A must-have accelerator for modern large-scale enterprises. It allows for rapid onboarding of people and reduces error rates.
 
-### 10. What's available in Java 24 API [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/Java24)
-- improvement in performance and memory management
-    - Generational Shenandoah (garbage collector) ![JEP-404](https://openjdk.org/jeps/404)
-- security and cryptography
-    - key derivation function API ![JEP-478](https://openjdk.org/jeps/478)
-    - quantum-resistant DSA ![JEP-497](https://openjdk.org/jeps/497) and more ![JEP-496](https://openjdk.org/jeps/496)
-- modernized Java APIs ![JEP-404](https://openjdk.org/jeps/404)
-    - ahead-of-time class loading and linking ![JEP-483](https://openjdk.org/jeps/483)
-    - class file API ![JEP-484](https://openjdk.org/jeps/484)
-    - more flexible pipelines with stream gatherers ![JEP-485](https://openjdk.org/jeps/485)
-- JVM changes
-    - compact object headers ![JEP-450](https://openjdk.org/jeps/450)
-    - restricted use of JNI ![JEP-472](https://openjdk.org/jeps/472)
-    - Security Manager is now disabled. ![JEP-486](https://openjdk.org/jeps/486)
-- languages and syntax
-    - switch, instanceof and primitive types ![JEP-488](https://openjdk.org/jeps/488)
-    - ScopedValue to share immutable data between caller thread and child threads ![JEP-487](https://openjdk.org/jeps/487)
-    - flexible constructor bodies (with prologue and epilogue) ![JEP-492](https://openjdk.org/jeps/492)
-    - module import ![JEP-494](https://openjdk.org/jeps/494)
-    - linking runtime image without JMOD ![JEP-493](https://openjdk.org/jeps/493)
-- more structured concurrency and threading
-- deprecation and "end-of-life"
-    - 32-bit x86 port deprecated ![JEP-501](https://openjdk.org/jeps/501)
-    - removal of support for Windows (32-bit x86) ![JEP-479](https://openjdk.org/jeps/479)
-
-### 11. What's available in Java 21 API [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/Java21API)
-New features available in Java 21 which we missed in Java 17 and earlier versions. Features, which are most notable and stand as the best candidates for frequent use, are listed below:
-- Virtual threads (from Java 19)
-![Virtual threads demo](./assets/java21/virtualthreads.png)
-- Usage of `record` types in conditionals. Very useful with `if(reference instance Type)` tests.
-<pre>if(publicParameter instanceof SpecificType) {}</pre>
-- labels for `switch` cases. These are very similar to `instanceof` checks.
-<pre>
-case TierOne test -> future = test.callActionOne();
-case TierTwo test -> future = test.callActionTwo();
-</pre>
-- String literals (a preview feature) to build parameterized text strings. These are similar to string literals / template strings of modern JavaScript and f-strings of python. The template processor `STR` is automatically imported and is available to use without any explicit import or declaration. More template processors include `RAW` and `FMT`. Remember `"fmt"` of Go (Golang)?
-<pre>String vmUserName = localSystem.retrieveUserName();
-String helloVitrualWorld = STR."Hola \{vmUserName}";</pre>
-- One major pathchanger about Java Collection Framework is: the introduction of "sequenced collections": `SequencedCollection`, `SequencedSet` and `SequencedMap`.
-<pre>
-public interface SequencedCollection<E> extends Collection<E> // since 21
-public interface SequencedMap<K, V> extends Map<K, V> // since 21
-public interface SequencedSet<E> extends SequencedCollection<E>, Set<E> // since 21
-</pre>
-- My favorite as it is about security and encryption: Key Encapsulation Mechanism (KEP) to secure symmetric keys.
-- TODO: Add updated screenshots
-- Implementation examples are in the project code under `Java21API` along with the checklist of which of the features have been tested.
-
-### 12. Java 17 Examples [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/Java17API)
-- restore always-Strict floating-point semantics
-- enhanced pseudo-random number generators
-- new macOS rendering pipeline
-- macOS/AArch64 port
-- deprecate the Applet API for removal
-- strongly encapsulate JDK internals
-- pattern matching for switch (preview)
-- remove RMI activation
-- sealed classes
-- remove the experimental AOT and JIT compilers
-- deprecate the Security Manager for removal
-- Foreign Function and Memory API (incubator)
-- Vector API (second incubator)
-- context-specific deserialization filters
-
-### 13. Java 14 Examples [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/Java14API/src/main/java/java14)
-JDK 14 features used in various implementations:
-- **InstanceofPatternMatching.java :** to declare reference for matching object upon checking its type
-- **NullPointerExceptionPlus.java :** to get a more descriptive NPE description
-- **RecordVsClass.java :** to demonstrate and use Record type
-- **SwitchExpressions.java :** to use switch expressions instead of switch statements
-- **TextBlockVsString.java :** to demonstrate a text block literal 
-
-### 14. Java 11 Examples [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/Java11API/src/main/java/java11)
-JDK 11 features used in various implementations:
-- **CollectionPlus.java :** to get arrays out of lists
-- **FilesReadStringWriteString.java :** to read from and write to file
-- **HttpClientPlus.java :** to demonstrate HttpClient for GET, POST and PUT request/response handling as in JDK 11
-- **JavaRunClass.java :** to run the Java program with `java JavaRunClass.java` command form
-- **LambdaLocalVars.java :** to demonstrate var for lambda functions
-- **OptionalIsEmpty.java :** to demonstrate Optional.isEmpty() 
-- **StringApiPlus.java :** to demonstrate the new methods of String API in Java 11
-
-### 15. Python: Jupyter Notebooks (.ipynb) [Link](https://github.com/rishiraj88/PythonSnippets/tree/main/JupyterNotebooks)
+### 11. Python: Jupyter Notebooks (.ipynb) [Link](https://github.com/rishiraj88/PythonSnippets/tree/main/JupyterNotebooks)
 - calendar
 - cube root
 - random module usage
 
-### 16. Python Scripts and Programs (without Notebooks) [Link](https://github.com/rishiraj88/PythonSnippets/tree/main/Python101)
+### 12. Python Scripts and Programs (without Notebooks) [Link](https://github.com/rishiraj88/PythonSnippets/tree/main/Python101)
 - addTwoNums.py
 - areaOfTriangleByBaseAndHeight.py
 - armstrongNumber.py
@@ -220,18 +148,14 @@ JDK 11 features used in various implementations:
 - swapTwoNumbers.py
 - temperatureCelToFahr.py
 
-### 17. LeetCode Problems Solved [Link](https://github.com/rishiraj88/LeetCode/tree/main/LeetCodeSolutions/src)
+### 13. LeetCode Problems Solved [Link](https://github.com/rishiraj88/LeetCode/tree/main/LeetCodeSolutions/src)
 - **LC01TwoSum.java :** Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 - **LC02AddTwoNumbers.java :** Given two non-empty linked lists representing twonon-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 - **LcMaxConsecutiveOnes.java :** to find the length of the longest subsequence having only 1's else to return 0
 - **LcSeptemberLeetcodingChallenge2021Week4.java :** [WIP] to get the maximum length of possible words made with the segments provided in input arrays,  with the condition that no letters in the words must be repeated anyhow
 And more on the way!
 
-### 18. RRShopware [Link](https://github.com/rishiraj88/RRShopware)
-- an interactive page/view of shopping site implementation with vanilla JavaScript, CSS and HTML
-- To visit the cloud-hosted site, smile and step in to [RRShops](https://rrshops.netlify.app/)
-
-### 19. Various Popular Algorithms Implemented in Java and PoC's for explaining the Features of Java Core API's [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/JavaCore/src/main/java)
+### 14. Various Popular Algorithms Implemented in Java and PoC's for explaining the Features of Java Core API's [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/JavaCore/src/main/java)
 - The list of Concurrent Collections and more components available as part of Concurrency API in Java 8 and later, such as Executor, ExecutorService, Lock and Symaphore.
 - **DefaultEleValue.java :** to test default values of elements of array
 - **MedianOfTwoArrays.java :** to find the median for the elements of two arrays taken together
@@ -241,20 +165,105 @@ And more on the way!
 - **StreamCollectMethods.java :** to demonstrate various use scenarios of Stream.collect() method with Collectors
 And more to come up!
 
-### 20. [GIST] HTTP response status codes [Link](https://github.com/rishiraj88/rishiraj88/blob/main/HTTP%20response%20status%20codes.md)
+### 15. [GIST] HTTP response status codes [Link](https://github.com/rishiraj88/rishiraj88/blob/main/HTTP%20response%20status%20codes.md)
 - Status Codes for frequently used HTTP responses. Very useful and crisp list of the response codes for web development. 
 
-### 21. [GIST] Java 8 DateTime code samples [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20DateTime%20code%20samples.md)
+### 16. [GIST] Java 8 DateTime code samples [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20DateTime%20code%20samples.md)
 - Code fragments for learners to refer and use quickly frequently used methods out of new Java DateTime API in Java 8+.
 
-### 22. [GIST] Java Stream Collector/Collectors methods to Collect Streaming Data [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%20Stream%20collector-s%20methods.md)
+### 17. [GIST] Java Stream Collector/Collectors methods to Collect Streaming Data [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%20Stream%20collector-s%20methods.md)
 - Code fragments for learners to learn and use efficiently all of the end-user-level methods of Java Stream API in Java 8+.
 
-### 23. [GIST] Functional Interfaces in Java API [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20Functional%20Interfaces%20in%20Java%20API.md)
+### 18. [GIST] Functional Interfaces in Java API [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%208%20Functional%20Interfaces%20in%20Java%20API.md)
 - It lists various in-built interfaces and their respective methods for functional programming using Java 8+.
 
-### 24. [GIST] Java Concurrency API, Concurrent Collections and Synchronizers in Java [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%20Concurrency%20API.md)
-- The list of Concurrent Collections and more components available as part of Concurrency API in Java 8 and later, such as Executor, ExecutorService, Lock and Symaphore.
+### 19. [GIST] Java Concurrency API, Concurrent Collections and Synchronizers in Java [Link](https://github.com/rishiraj88/JavaCoreSnippets/blob/main/gists/Java%20Concurrency%20API.md)
+- The list of Concurrent Collections and more components available as part of Concurrency API in Java 8 and later, such as Executor, ExecutorService, Lock and Symaphore.### 11. What's available in Java 24 API [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/Java24)
+- improvement in performance and memory management
+    - Generational Shenandoah (garbage collector) ![JEP-404](https://openjdk.org/jeps/404)
+- security and cryptography
+    - key derivation function API ![JEP-478](https://openjdk.org/jeps/478)
+    - quantum-resistant DSA ![JEP-497](https://openjdk.org/jeps/497) and more ![JEP-496](https://openjdk.org/jeps/496)
+- modernized Java APIs ![JEP-404](https://openjdk.org/jeps/404)
+    - ahead-of-time class loading and linking ![JEP-483](https://openjdk.org/jeps/483)
+    - class file API ![JEP-484](https://openjdk.org/jeps/484)
+    - more flexible pipelines with stream gatherers ![JEP-485](https://openjdk.org/jeps/485)
+- JVM changes
+    - compact object headers ![JEP-450](https://openjdk.org/jeps/450)
+    - restricted use of JNI ![JEP-472](https://openjdk.org/jeps/472)
+    - Security Manager is now disabled. ![JEP-486](https://openjdk.org/jeps/486)
+- languages and syntax
+    - switch, instanceof and primitive types ![JEP-488](https://openjdk.org/jeps/488)
+    - ScopedValue to share immutable data between caller thread and child threads ![JEP-487](https://openjdk.org/jeps/487)
+    - flexible constructor bodies (with prologue and epilogue) ![JEP-492](https://openjdk.org/jeps/492)
+    - module import ![JEP-494](https://openjdk.org/jeps/494)
+    - linking runtime image without JMOD ![JEP-493](https://openjdk.org/jeps/493)
+- more structured concurrency and threading
+- deprecation and "end-of-life"
+    - 32-bit x86 port deprecated ![JEP-501](https://openjdk.org/jeps/501)
+    - removal of support for Windows (32-bit x86) ![JEP-479](https://openjdk.org/jeps/479)
+
+### 20. What's available in Java 21 API [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/Java21API)
+New features available in Java 21 which we missed in Java 17 and earlier versions. Features, which are most notable and stand as the best candidates for frequent use, are listed below:
+- Virtual threads (from Java 19)
+![Virtual threads demo](./assets/java21/virtualthreads.png)
+- Usage of `record` types in conditionals. Very useful with `if(reference instance Type)` tests.
+<pre>if(publicParameter instanceof SpecificType) {}</pre>
+- labels for `switch` cases. These are very similar to `instanceof` checks.
+<pre>
+case TierOne test -> future = test.callActionOne();
+case TierTwo test -> future = test.callActionTwo();
+</pre>
+- String literals (a preview feature) to build parameterized text strings. These are similar to string literals / template strings of modern JavaScript and f-strings of python. The template processor `STR` is automatically imported and is available to use without any explicit import or declaration. More template processors include `RAW` and `FMT`. Remember `"fmt"` of Go (Golang)?
+<pre>String vmUserName = localSystem.retrieveUserName();
+String helloVitrualWorld = STR."Hola \{vmUserName}";</pre>
+- One major pathchanger about Java Collection Framework is: the introduction of "sequenced collections": `SequencedCollection`, `SequencedSet` and `SequencedMap`.
+<pre>
+public interface SequencedCollection<E> extends Collection<E> // since 21
+public interface SequencedMap<K, V> extends Map<K, V> // since 21
+public interface SequencedSet<E> extends SequencedCollection<E>, Set<E> // since 21
+</pre>
+- My favorite as it is about security and encryption: Key Encapsulation Mechanism (KEP) to secure symmetric keys.
+- TODO: Add updated screenshots
+- Implementation examples are in the project code under `Java21API` along with the checklist of which of the features have been tested.
+
+### 21. Java 17 Examples [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/Java17API)
+- restore always-Strict floating-point semantics
+- enhanced pseudo-random number generators
+- new macOS rendering pipeline
+- macOS/AArch64 port
+- deprecate the Applet API for removal
+- strongly encapsulate JDK internals
+- pattern matching for switch (preview)
+- remove RMI activation
+- sealed classes
+- remove the experimental AOT and JIT compilers
+- deprecate the Security Manager for removal
+- Foreign Function and Memory API (incubator)
+- Vector API (second incubator)
+- context-specific deserialization filters
+
+### 22. Java 14 Examples [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/Java14API/src/main/java/java14)
+JDK 14 features used in various implementations:
+- **InstanceofPatternMatching.java :** to declare reference for matching object upon checking its type
+- **NullPointerExceptionPlus.java :** to get a more descriptive NPE description
+- **RecordVsClass.java :** to demonstrate and use Record type
+- **SwitchExpressions.java :** to use switch expressions instead of switch statements
+- **TextBlockVsString.java :** to demonstrate a text block literal 
+
+### 23. Java 11 Examples [Link](https://github.com/rishiraj88/JavaCoreSnippets/tree/main/Java11API/src/main/java/java11)
+JDK 11 features used in various implementations:
+- **CollectionPlus.java :** to get arrays out of lists
+- **FilesReadStringWriteString.java :** to read from and write to file
+- **HttpClientPlus.java :** to demonstrate HttpClient for GET, POST and PUT request/response handling as in JDK 11
+- **JavaRunClass.java :** to run the Java program with `java JavaRunClass.java` command form
+- **LambdaLocalVars.java :** to demonstrate var for lambda functions
+- **OptionalIsEmpty.java :** to demonstrate Optional.isEmpty() 
+- **StringApiPlus.java :** to demonstrate the new methods of String API in Java 11
+
+### 24. RRShopware [Link](https://github.com/rishiraj88/RRShopware)
+- an interactive page/view of shopping site implementation with vanilla JavaScript, CSS and HTML
+- To visit the cloud-hosted site, smile and step in to [RRShops](https://rrshops.netlify.app/)
 
 ## 🌱 I’m fostering myself with more of: "all things containers" and orchestration, such as
 - Docker networking across OSI Model layers of networks,
