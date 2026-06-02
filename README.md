@@ -24,7 +24,7 @@ To prioritise realisable ideas (SMART goals) and realise the top three, I rate t
 - cost in terms of effort and time, and 
 - value for money (the returns against risk & investment). RoRI = RoR + RoI
 
-For example, you may have a kind look at the dashboard here:
+For example, you may have a kind look at the dashboard (built for a project) here:
 
 ![Prometheus-Grafana Dashboard of Order-Manager](./Prometheus-Grafana-Dashboard-of-Order-Manager.png)
 
