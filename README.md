@@ -2,6 +2,17 @@
 
 Feel free to fork into the respositories here. The nice acts of collaboration and sharing are always welcome.  
 
+## New Addition: a caching solution for semantic search and hybrid search, using Milvus (a powerful vector DB offering) for RAG
+[RAG-Caching-with-Vector-database](https://github.com/rishiraj88/RAG-Caching-with-Vector-database/tree/main)
+
+
+built with:
+- Milvus (a powerful vector DB offering),
+- LangChain,
+- pandas, and
+- OpenAI for LLM.
+
+
 ## Quarkus is again hot in Industry, especially for the ease it provides with Kubernetes
 Releases v67 and later of Quarkus is out now!
 ![Quarkus Release v67 out on 20260204](./Quarkus-Release-v67-out-on-20260204.png)
