@@ -2,6 +2,23 @@
 
 Feel free to fork into the respositories here. The nice acts of collaboration and sharing are always welcome.  
 
+## New Addition: Vendor and Client data with Quarkus and containers
+[vendor-client-data-manager-quarkus-containers](https://github.com/rishiraj88/vendor-client-data-manager-quarkus-containers)
+### Why Quarkus
+Quarkus offers container-first support to the applications built for JVM (Java Virtual Machine) and JVM compatibles.
+
+### the Need for Container-first Approach
+In modern era, microservices and the applications connected over network are quite common and usually a go-to approach for system design. Hence it is utmost important for our toolset to be well acquainted with the features and abilities to develop distributed systems with microservices and APIs. And, containers make a perfect pitch for this goal.
+
+
+built with:
+- Quarkus: container-first GraalVM for Java,
+- GraalVM: graalvm-jdk,
+- PostgreSQL: RDBMS,
+- Panache ORM, and
+- Docker.
+
+
 ## New Addition: a caching solution for semantic search and hybrid search, using Milvus (a powerful vector DB offering) for RAG
 [RAG-Caching-with-Vector-database](https://github.com/rishiraj88/RAG-Caching-with-Vector-database/tree/main)
 
