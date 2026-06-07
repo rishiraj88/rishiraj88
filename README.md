@@ -15,7 +15,8 @@ built with:
 - Quarkus: container-first GraalVM for Java,
 - GraalVM: graalvm-jdk,
 - PostgreSQL: RDBMS,
-- Panache ORM, and
+- Panache ORM,
+- GraphQL, and
 - Docker.
 
 
