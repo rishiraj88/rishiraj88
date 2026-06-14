@@ -1,0 +1,9 @@
+Popular network architectures for neural networks:
+===
+
+LeNet5: document and handwriting
+AlexNet: image recognition
+ResNet: CNN
+VGG: CNN
+LSTM: sequence of text
+Transformers: GPT, as we know

@@ -282,7 +282,6 @@ JDK 11 features used in various implementations:
 ## 📫 Feel free to Reach Me for Feedback, Queries, Collaboration and More:
 - **LinkedIn Messaging:** <https://www.linkedin.com/in/rishirajopenminds>
 - **X Byte:** <https://twitter.com/RishiRajDevOps>
-- **DockerHub:** <[i50729 @ DockerHub](https://hub.docker.com/repositories/i50729))>
 - **Start Page:** <https://bio.link/rishiraj49de>
 - **GitHub:** <https://github.com/rishiraj88>
 

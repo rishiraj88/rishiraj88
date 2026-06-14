@@ -1,0 +1,51 @@
+HTTP OPTIONS method
+
+===============
+
+It requests information about the HTTP methods available for a target resource.
+
+
+
+Purpose: to discover supported HTTP methods, features, and capabilities without performing the action (e.g., PUT or POST). It's a probing request.
+
+Response: Typically returns a 200 OK (or 204 EMPTY) and an 'Allow' header listing the supported methods (e.g., Allow: GET, POST, OPTIONS). More headers may also be returned.
+
+CORS preflight: OPTIONS is commonly used by browsers for CORS "preflight" checks to verify that cross-origin requests with special methods/headers are permitted. A server responds with Access-Control-Allow-Methods, Access-Control-Allow-Headers, Access-Control-Allow-Origin etc.
+
+Safety/Idempotence: OPTIONS is defined as a safe, idempotent and cacheable method (with no side effects).
+
+
+
+Usage scenarios:
+
+Client probing, which methods a resource accepts before sending a request.
+
+API tooling and documentation endpoints that advertise supported operations.
+
+Browser preflight for cross-origin PUT/DELETE or non-simple headers.
+
+
+
+Typical headers with regard to OPTIONS:
+
+Request: Origin, Access-Control-Request-Method, Access-Control-Request-Headers (for CORS preflight).
+
+Response: Allow, Access-Control-Allow-Methods, Access-Control-Allow-Headers, Access-Control-Allow-Origin, Access-Control-Max-Age.
+
+Server behavior: Servers may implement OPTIONS globally (responding with allowed methods) or on a per-resource basis.
+
+
+
+Example minimal response:
+
+HTTP/1.1 204 No Content 
+
+Allow: GET, POST, OPTIONS 
+
+Access-Control-Allow-Origin: * 
+
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+
+
+
+Use OPTIONS when you need to discover capabilities or support CORS preflight checks; do not use it to perform state-changing operations (means read-only operations).

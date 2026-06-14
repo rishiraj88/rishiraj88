@@ -1,0 +1,37 @@
+The bestest method to learn something hands-on is:
+
+Step 1.: First do it wrong.
+
+Step 2.: Then fix it.
+
+
+Here the utmost important attribute for Step 2. is:
+
+to fix it step-by-step, in a coherent sequence.
+
+
+The spirit underneath is:
+
+https://github.com/rishiraj88/leasing
+
+Break the BIG! puzzle into smaller quests, and enjoy solving them "one after another".
+
+
+One such example is this project:
+
+The BIG! puzzle (epic/project) was: Web frontend not getting to invoke backend API.
+
+How I distributed it into a priority queue of smaller quests (tasks):
+
+1. Implement Customer Form and supply the valid Customer API URL to it.
+
+2. Implement Vehicle Form and supply the valid Vehicle API URL to it.
+
+3. Implement and "test in isolation" the respective Endpoints for customers and vehicles.
+
+4. Ensure that Data Models of API match the Data Formats expected by Web UI.
+
+5. Replicate the above steps for Contract Endpoints and Contract Frontend.
+
+
+#FullStackDev #Angular #SpringBoot #API

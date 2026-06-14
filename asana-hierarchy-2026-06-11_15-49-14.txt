@@ -1,0 +1,32 @@
+﻿This conversation was generated with Duck.ai (https://duck.ai) using OpenAI's GPT-5 mini Model. AI chats may display inaccurate or offensive information (see https://duckduckgo.com/duckai/privacy-terms for more info).
+
+====================
+
+User prompt 1 of 1 - 11.6.2026, 15:48:50:
+asana hierarchy
+
+GPT-5 mini:
+Assuming you mean the task-organizing hierarchy in Asana (the project management app), here’s a concise summary of its structure and how to use each level.
+
+Hierarchy levels (top → bottom)
+- Organization: your company account (only for work/enterprise).
+- Workspace: simple shared space for people/projects (used when no Organization).
+- Team: group of people working together; owns projects.
+- Project: container for related tasks (list, board, timeline, calendar views).
+- Section (or Column in Board view): groups within a project to organize tasks.
+- Task: individual work item; can have assignee, due date, attachments, description, comments, tags, followers, subtasks.
+- Subtask: smaller steps within a task; can be assigned/due separately and appear inside parent task.
+- Dependency: relationship where one task blocks or depends on another (links tasks).
+- Milestone: marker for significant points in project progress (special task type).
+- Portfolios (Business/Enterprise): collection of projects for high‑level tracking.
+- Goals (Business/Enterprise): company-level objectives linked to projects/portfolios.
+- Rules/Automation: automation applied at project or organization level to trigger actions.
+
+Quick best practices
+1. Use Teams → Projects to mirror org structure or product areas.  
+2. Keep tasks single-responsibility; use subtasks for true child steps only.  
+3. Use Sections/Columns to represent workflow stages (Backlog, In progress, Review, Done).  
+4. Use dependencies for order/critical path; use milestones for key deadlines.  
+5. Use Portfolios/Goals for executive tracking and alignment (if available).
+
+If you meant Asana (yoga) poses hierarchy or a different “asana” meaning, tell me which and I’ll provide that.
