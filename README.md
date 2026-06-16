@@ -32,7 +32,11 @@ built with:
 
 
 ## Quarkus is again hot in Industry, especially for the ease it provides with Kubernetes
-Releases v67 and later of Quarkus is out now!
+
+#### Release 1.4.2. of Quarkus fs-util out now!
+![Quarkus-fs-util Release v1.4.2 out on 20260615](./quarkus-fs-util-rel20260615.png)
+
+#### Releases v67 and later of Quarkus out now!
 ![Quarkus Release v67 out on 20260204](./Quarkus-Release-v67-out-on-20260204.png)
 
 
