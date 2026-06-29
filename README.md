@@ -3,7 +3,7 @@
 Feel free to fork into the respositories here. The nice acts of collaboration and sharing are always welcome.  
 
 ## New Addition [private project]: Solar Plant Analytics with FastAPI and GitHub Copilot, Multi-agent Orchestration
-[Solar Plant Analytics](rishiraj88/solarplantdataanalysis: Solar Plant Data Analysis, to invert with impact)
+[Solar Plant Analytics](https://github.com/rishiraj88/solarplantdataanalysis)
 
 
 FastAPI backend for tenant-scoped solar plant analysis and document generation, tailored to client requirements.
