@@ -2,7 +2,28 @@
 
 Feel free to fork into the respositories here. The nice acts of collaboration and sharing are always welcome.  
 
-## New Addition: Vendor and Client data with Quarkus and containers
+## New Addition [private project]: Solar Plant Analytics with FastAPI and GitHub Copilot, Multi-agent Orchestration
+[Solar Plant Analytics](rishiraj88/solarplantdataanalysis: Solar Plant Data Analysis, to invert with impact)
+
+
+FastAPI backend for tenant-scoped solar plant analysis and document generation, tailored to client requirements.
+
+
+### Built with:
+- LangChain
+- FastAPI
+- LangGraph
+- GitHub Copilot
+- GPT-5
+- Python
+- deployed on Railway cloud
+
+### Salient features:
+- AI-generated code (low code)
+- AI-assisted bug fixes applied
+- usable, minimalistic Web UI generated with AI (no code)
+
+## Vendor and Client data with Quarkus and containers
 [vendor-client-data-manager-quarkus-containers](https://github.com/rishiraj88/vendor-client-data-manager-quarkus-containers)
 ### Why Quarkus
 Quarkus offers container-first support to the applications built for JVM (Java Virtual Machine) and JVM compatibles.
@@ -10,8 +31,7 @@ Quarkus offers container-first support to the applications built for JVM (Java V
 ### the Need for Container-first Approach
 In modern era, microservices and the applications connected over network are quite common and usually a go-to approach for system design. Hence it is utmost important for our toolset to be well acquainted with the features and abilities to develop distributed systems with microservices and APIs. And, containers make a perfect pitch for this goal.
 
-
-built with:
+### built with:
 - Quarkus: container-first GraalVM for Java,
 - GraalVM: graalvm-jdk,
 - PostgreSQL: RDBMS,
@@ -20,11 +40,10 @@ built with:
 - Docker.
 
 
-## New Addition: a caching solution for semantic search and hybrid search, using Milvus (a powerful vector DB offering) for RAG
+## a caching solution for semantic search and hybrid search, using Milvus (a powerful vector DB offering) for RAG
 [RAG-Caching-with-Vector-database](https://github.com/rishiraj88/RAG-Caching-with-Vector-database/tree/main)
 
-
-built with:
+### built with:
 - Milvus (a powerful vector DB offering),
 - LangChain,
 - pandas, and
